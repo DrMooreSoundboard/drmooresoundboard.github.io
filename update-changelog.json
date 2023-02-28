@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.0",
-  "latestVersionCode": 1,
-  "url": "https://drmooresoundboard.github.io/releases/1.0.0.apk",
+  "latestVersion": "1.1",
+  "latestVersionCode": 2,
+  "url": "https://drmooresoundboard.github.io/releases/1.1.apk",
   "releaseNotes": [
-    "The first release."
+    "- 14 new voice clips!"
   ]
 }
